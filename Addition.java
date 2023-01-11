@@ -6,6 +6,7 @@ public class Addition {
         double b = 12.5;
 
         double c = a + b;
+        /* integer datatype can exist in double data type .but double data type can't accept the integer data type */
 
         System.out.println(c);
 

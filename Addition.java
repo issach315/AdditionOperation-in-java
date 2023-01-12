@@ -9,6 +9,14 @@ public class Addition {
         /* integer datatype can exist in double data type .but double data type can't accept the integer data type */
 
         System.out.println(c);
+        
+        /* in java the operators are divided into
+        1. arithmetic operator 
+        2 logical operator
+        3 assignment operators
+        4 conditional operators
+        5 relational operators
+        */
 
         
 

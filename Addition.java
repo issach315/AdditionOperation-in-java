@@ -17,6 +17,9 @@ public class Addition {
         4 conditional operators
         5 relational operators
         */
+        
+        // varibles are following in the camil casing 
+        // display the information detail about the output
 
         
 
